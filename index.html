@@ -1,8 +1,8 @@
 <!doctype html>
-<html>
+<html itemscope itemtype="http://schema.org/Event">
 <head>
 
-  <title>Conference name</title>
+  <title itemprop="name">Conference name</title>
 
   <meta charset="utf-8">
   <meta name="author" content="Conference name">
@@ -75,7 +75,9 @@
 <!-- HEADER -->
 <header class="header" style="background-image: url(http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg)">
   <div class="wrapper">
-    <h1 class="logo-name"><a class="logo-link" href="#" title="Conference name">Conference name</a></h1>
+    <h1 class="logo-name">
+      <a class="logo-link" href="#" title="Conference name" itemprop="name">Conference name</a>
+    </h1>
     <h2 class="tagline">November 15, Coco Bongo, Cancún</h2>
     <div class="call-action-area">
       <span class="price">Only $100</span>
@@ -95,7 +97,7 @@
   <!-- ABOUT -->
   <section class="about" id="about">
     <h2 class="section-title">About</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <p itemprop="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </section>
   <!-- / ABOUT -->
@@ -104,13 +106,17 @@
 
 
   <!-- LOCATION -->
-  <section class="location" id="location">
+  <section class="location" id="location" itemprop="location" itemscope itemtype="http://schema.org/Place">
+
     <h2 class="section-title">Location</h2>
 
-    
-      <p>Boulevard Kukulcan, 30, México</p>
-      <div id="map-canvas" class="location-area" data-address="Boulevard Kukulcan, 30, México"></div>
-    
+    <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+      <span itemprop="streetAddress">Boulevard Kukulcan, 30. </span>
+      <span itemprop="addressLocality">Cancún</span>,
+      <span itemprop="addressRegion"> Quintana</span>
+    </p>
+
+    <div id="map-canvas" class="location-area" data-address="Boulevard Kukulcan, 30"></div>
 
   </section>
   <!-- / LOCATION -->
@@ -128,8 +134,8 @@
       
     
       
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Linus Torvalds" /></span>
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Linus Torvalds" itemprop="image" /></span>
 
           <h3 class="speech-title">
             
@@ -144,8 +150,8 @@
       
     
       
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Bill Gates" /></span>
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Bill Gates" itemprop="image" /></span>
 
           <h3 class="speech-title">
             
@@ -162,8 +168,8 @@
       
     
       
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Chuck Norris" /></span>
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Chuck Norris" itemprop="image" /></span>
 
           <h3 class="speech-title">
             
@@ -178,8 +184,8 @@
       
     
       
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Steve Jobs" /></span>
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Steve Jobs" itemprop="image" /></span>
 
           <h3 class="speech-title">
             
@@ -196,8 +202,8 @@
       
     
       
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Mark Zuckerberg" /></span>
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Mark Zuckerberg" itemprop="image" /></span>
 
           <h3 class="speech-title">
             
@@ -212,8 +218,8 @@
       
     
       
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Steve Wozniak" /></span>
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <span class="speaker-photo"><img class="photo" src="http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg" alt="Steve Wozniak" itemprop="image" /></span>
 
           <h3 class="speech-title">
             
@@ -340,8 +346,9 @@
     <ul class="sponsors-list">
 
     
-      <li class="sponsor-item">
-        <a class="sponsor-logo sponsor-link" href="http://eventick.com.br"><img src="http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png" alt="Eventick" class="photo" /></a>
+      <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
+        <a href="http://eventick.com.br" class="sponsor-logo sponsor-link" itemprop="url">
+          <img src="http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png" alt="Eventick" class="photo" itemprop="image" /></a>
       </li>
     
 
@@ -362,8 +369,10 @@
     <ul class="partners-list">
 
     
-      <li class="partner-item">
-        <a class="partner-logo partner-link" href="http://braziljs.org"><img src="http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png" alt="BrazilJS" class="photo" /></a>
+      <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
+        <a href="http://braziljs.org" class="partner-logo partner-link" itemprop="url">
+          <img src="http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png" alt="BrazilJS" class="photo" itemprop="image" />
+        </a>
       </li>
     
 

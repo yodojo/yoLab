@@ -3,22 +3,22 @@
   <ul class="wrapper">
     <% if @sections.about: %>
       <li class="nav-item">
-        <a href="#about" class="nav-link">About</a>
+        <a href="#about" class="nav-link">Sobre</a>
       </li>
     <% end %>
     <% if @sections.location: %>
       <li class="nav-item">
-        <a href="#location" class="nav-link">Location</a>
+        <a href="#location" class="nav-link">Local</a>
       </li>
     <% end %>
     <% if @sections.speakers: %>
       <li class="nav-item">
-        <a href="#speakers" class="nav-link">Speakers</a>
+        <a href="#speakers" class="nav-link">Palestrantes</a>
       </li>
     <% end %>
     <% if @sections.schedule: %>
       <li class="nav-item">
-        <a href="#schedule" class="nav-link">Schedule</a>
+        <a href="#schedule" class="nav-link">Agenda</a>
       </li>
     <% end %>
     <% if @sections.sponsors: %>

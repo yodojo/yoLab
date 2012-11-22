@@ -14,7 +14,7 @@ module.exports =
       state: "Mato Grosso"
     # Site info
     site:
-      url: "http://confboilerplate.com"
+      url: "github.com/yodojo/yoLab"
       googleanalytics: "UA-33656081-1"
       images:
         cover: "src/files/img/your-logo.jpg"

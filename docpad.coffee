@@ -41,7 +41,7 @@ module.exports =
       company: "Lugar que trabalha.."
       twitter: "henriqueprj"
       presentation:
-        title: "E se via javascript eu conseguisse chamar métodos no servidor? - "carinha lá no fundo grita: é fácil, usa jQuery". OK. E se pelo servidor eu pudesse invocar uma função (em javascript) no cliente (browser né!)? Em tempo real. "hmmm, ficou mais interessante...". SignalR nos provê estas funcionalidades com muita facilidade. Com ele conseguimos criar aquele chat maroto sem ter que ficar dando refresh na tela, jogos, ou qualquer funcionalidade em tempo real que nos venha a cabeça."
+        title: "E se via javascript eu conseguisse chamar métodos no servidor? - 'carinha lá no fundo grita: é fácil, usa jQuery'. OK. E se pelo servidor eu pudesse invocar uma função (em javascript) no cliente (browser né!)? Em tempo real. 'hmmm, ficou mais interessante...'. SignalR nos provê estas funcionalidades com muita facilidade. Com ele conseguimos criar aquele chat maroto sem ter que ficar dando refresh na tela, jogos, ou qualquer funcionalidade em tempo real que nos venha a cabeça."
         description: "SignalR: Funcionalidades Web em tempo real"
         time: "15h"
     ,

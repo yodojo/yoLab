@@ -37,7 +37,7 @@ module.exports =
     ,
       name: "Henrique Ribeiro"
       photo: "http://migre.me/c1uEo"
-      bio: "Apaixonado por tecnologia desde sempre. Meus brinquedos eletrônicos geralmente se transformavam em outros (nem sempre). Desenvolvedor, arquiteto de software, instrutor e palestrante. Trabalha com a plataforma .NET desde seu lançamento em 2002, com o foco em aplicações web com ASP.NET (onde sou certificado - MCTS). Gosta das áreas de Certificação Digital e Arquitetura de Software. No Tribunal de Justiça, onde trabalha atualmente, atua auxiliando os times de desenvolvimento em tarefas mais específicas, difunde novas tecnologias, realiza treinamentos, entre outras coisas."
+      bio: "Pós-graduado em Gestão de Processos e Qualidade de Software, desenvolvedor a 12 anos, trabalha com .NET (C#, etc) desde a primeira versão (2002). Pelo fato de gostar muito de ensinar, realizou/realiza diversos treinamentos na área de desenvolvimento de software. Trabalha atualmente no Tribunal de Justiça de Mato Grosso, ajudando as equipes de desenvolvimento no que for necessário, bem como criando soluções e difundindo (sempre que pode) novas idéas e tecnologias. Gosta muito de filmes, mountain bike e jogar StarCraft."
       company: "Lugar que trabalha.."
       twitter: "henriqueprj"
       presentation:

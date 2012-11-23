@@ -5,7 +5,7 @@ module.exports =
 
     # Conference info
     conf:
-      name: "yoLab #03"
+      name: "yoLab s01e03"
       description: "terceiro episódio do yoLab"
       date: "24/11"
       venue: "Avenida Beira Rio"

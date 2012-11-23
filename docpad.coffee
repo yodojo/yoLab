@@ -36,7 +36,7 @@ module.exports =
       time: "14h"
     ,
       name: "Henrique Ribeiro"
-      photo: "http://migre.me/c1uEo"
+      photo: "http://oi49.tinypic.com/25q3ql2.jpg"
       bio: "Pós-graduado em Gestão de Processos e Qualidade de Software, desenvolvedor a 12 anos, trabalha com .NET (C#, etc) desde a primeira versão (2002). Pelo fato de gostar muito de ensinar, realizou/realiza diversos treinamentos na área de desenvolvimento de software. Trabalha atualmente no Tribunal de Justiça de Mato Grosso, ajudando as equipes de desenvolvimento no que for necessário, bem como criando soluções e difundindo (sempre que pode) novas idéas e tecnologias. Gosta muito de filmes, mountain bike e jogar StarCraft."
       company: "Lugar que trabalha.."
       twitter: "henriqueprj"
@@ -46,7 +46,7 @@ module.exports =
         time: "15h"
     ,
       name: "kembolle Amilkar"
-      photo: "http://migre.me/c26Wa"
+      photo: "http://oi49.tinypic.com/if31pc.jpg"
       bio: "- Tecnologia em Analise e Desenvolvimento de Sistemas,
 - Especialista em Governança de Tecnologia da Informação,
 - Especialista em G.P.N.T.I.
@@ -65,7 +65,7 @@ Cybercrimes."
         time: "16h"
     ,
       name: "Guilherme Cardoso"
-      photo: "http://migre.me/c1kfR"
+      photo: "http://oi47.tinypic.com/2lcwkte.jpg"
       bio: "Bacharel em Ciência da Computação pela Universidade Federal de Mato Grosso, tenta ganhar a vida como Desenvolvedor, aprendendo (com quem puder lhe ensinar, ou por conta própria) como ser um gentleman com teu código. Atualmente trabalha prestando serviço na Secretaria de Estado de Segurança Pública de Mato Grosso, mas já está de malas prontas pra enfrentar a voraz São Paulo e, quiçá, além."
       company: "SESP"
       twitter: "guipcardoso"

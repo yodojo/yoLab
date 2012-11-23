@@ -45,14 +45,23 @@ module.exports =
         description: "SignalR: Funcionalidades Web em tempo real"
         time: "15h"
     ,
-      name: "Lauro Ojeda"
-      photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-      bio: "Biografia"
-      company: "Onde trabalha?"
-      twitter: "Twitter??"
+      name: "kembolle Amilkar"
+      photo: "http://migre.me/c26Wa"
+      bio: "- Tecnologia em Analise e Desenvolvimento de Sistemas,
+- Especialista em Governança de Tecnologia da Informação,
+- Especialista em G.P.N.T.I.
+- Pós-graduando em Segurança da Informação
+- Capitulo OWASP de Cuiabá  
+- Information Security Research Association 
+- Gerencia em Segurança da Informação, Procon-MT"
+      company: "Procon-MT"
+      twitter: ""
       presentation:
-        title: "Startup"
-        description: "Startup"
+        title: "OWASP Cuiabá  && ISRA "
+        description: "Analise e Desenvolvimento Seguro de Software. 
+OWASP Java Project.
+Exploração Vulnerabilidades em Ambientes Java.
+Cybercrimes."
         time: "16h"
     ,
       name: "Guilherme Cardoso"

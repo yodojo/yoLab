@@ -38,7 +38,7 @@ module.exports =
       name: "Henrique Ribeiro"
       photo: "http://oi49.tinypic.com/25q3ql2.jpg"
       bio: "Pós-graduado em Gestão de Processos e Qualidade de Software, desenvolvedor a 12 anos, trabalha com .NET (C#, etc) desde a primeira versão (2002). Pelo fato de gostar muito de ensinar, realizou/realiza diversos treinamentos na área de desenvolvimento de software. Trabalha atualmente no Tribunal de Justiça de Mato Grosso, ajudando as equipes de desenvolvimento no que for necessário, bem como criando soluções e difundindo (sempre que pode) novas idéas e tecnologias. Gosta muito de filmes, mountain bike e jogar StarCraft."
-      company: "Lugar que trabalha.."
+      company: "Tribunal de Justiça-MT"
       twitter: "henriqueprj"
       presentation:
         title: "SignalR: Funcionalidades Web em tempo real"

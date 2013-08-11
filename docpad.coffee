@@ -37,15 +37,13 @@ module.exports =
     ,
       name: "Gustavo Piccin"
       photo: "src/files/img/gustavo.jpeg"
-      bio: "Bacharel em Sistemas de Informação, pós-graduando em Gestão de Pessoas e Liderança de Alta Performance, Engenheiro de Software a 10 anos, sendo 5 destes atuados em Liderança e Gestão de Projetos. Um velho amante da filosofia Ágil, busca continuamente escapar de algumas "armadilhadas" dos métodos convencionais de gestão, além de fomentar os métodos ágeis por onde passa. Se da muito bem em corridas de Kart e mesmo sem tanta habilidade insiste em jogar Tennis."
+      bio: "Bacharel em Sistemas de Informação, pós-graduando em Gestão de Pessoas e Liderança de Alta Performance, Engenheiro de Software a 10 anos, sendo 5 destes atuados em Liderança e Gestão de Projetos. Um velho amante da filosofia Ágil, busca continuamente escapar de algumas armadilhadas' dos métodos convencionais de gestão, além de fomentar os métodos ágeis por onde passa. Se da muito bem em corridas de Kart e mesmo sem tanta habilidade insiste em jogar Tennis."
       company: "Tribunal de Justiça-MT"
       twitter: "gpiccin"
       presentation:
         title: "Além dos post-its"
         description: "Temos um quadro, movemos alguns post-its, trabalhamos com sprints e nos reunimos todos os dias. Pronto somos Ágeis! \o/ 
-
         Tem certeza? 
-
         Vamos com calma, existe pelo menos uma dúzia de aspectos que você precisa considerar para se tornar realmente ágil. Nesta reunião vamos discutir um pouco sobre estes aspectos além de desmistificar alguns mitos por trás do Agile."
         time: "15h"
     ,
@@ -69,8 +67,7 @@ module.exports =
         description: "Django é um excelente framework e o segredo do seu sucesso é a sua comunidade. Nesta palestra vamos montar um mapa do framework e do seu ecossistema para que você se sinta mais à vontade quando for buscar a solução do seu problema."
         time: "17h"
     ]
-  ,
-    // List of Partners
+  
     partners: [
       name: "Cbanet",
       logo: "src/files/img/cbanet.jpg",

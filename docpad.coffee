@@ -5,11 +5,11 @@ module.exports =
 
     # Conference info
     conf:
-      name: "yoLab s01e03"
-      description: "terceiro episódio do yoLab"
-      date: "24/11"
-      venue: "Avenida Beira Rio"
-      address: "Avenida Beira Rio"
+      name: "yoLab s02e01"
+      description: "Primeiro episódio da segunda temporada de yoLab"
+      date: "17/08"
+      venue: "Rua Cinco, Centro Político Administrativo"
+      address: "Rua Cinco, Centro Político Administrativo"
       city: "Cuiabá"
       state: "Mato Grosso"
     # Site info
@@ -27,7 +27,7 @@ module.exports =
       speakers: true
       schedule: true
       sponsors: false
-      partners: false
+      partners: true
       contact: false
 
     # The entire schedule
@@ -35,42 +35,48 @@ module.exports =
       name: "Inicio da parada"
       time: "14h"
     ,
-      name: "Henrique Ribeiro"
-      photo: "http://oi49.tinypic.com/25q3ql2.jpg"
-      bio: "Pós-graduado em Gestão de Processos e Qualidade de Software, desenvolvedor a 12 anos, trabalha com .NET (C#, etc) desde a primeira versão (2002). Pelo fato de gostar muito de ensinar, realizou/realiza diversos treinamentos na área de desenvolvimento de software. Trabalha atualmente no Tribunal de Justiça de Mato Grosso, ajudando as equipes de desenvolvimento no que for necessário, bem como criando soluções e difundindo (sempre que pode) novas idéas e tecnologias. Gosta muito de filmes, mountain bike e jogar StarCraft."
+      name: "Gustavo Piccin"
+      photo: "src/files/img/gustavo.jpeg"
+      bio: "Bacharel em Sistemas de Informação, pós-graduando em Gestão de Pessoas e Liderança de Alta Performance, Engenheiro de Software a 10 anos, sendo 5 destes atuados em Liderança e Gestão de Projetos. Um velho amante da filosofia Ágil, busca continuamente escapar de algumas "armadilhadas" dos métodos convencionais de gestão, além de fomentar os métodos ágeis por onde passa. Se da muito bem em corridas de Kart e mesmo sem tanta habilidade insiste em jogar Tennis."
       company: "Tribunal de Justiça-MT"
-      twitter: "henriqueprj"
+      twitter: "gpiccin"
       presentation:
-        title: "SignalR: Funcionalidades Web em tempo real"
-        description: "E se via javascript eu conseguisse chamar métodos no servidor? - 'carinha lá no fundo grita: é fácil, usa jQuery'. OK. E se pelo servidor eu pudesse invocar uma função (em javascript) no cliente (browser né!)? Em tempo real. 'hmmm, ficou mais interessante...'. SignalR nos provê estas funcionalidades com muita facilidade. Com ele conseguimos criar aquele chat maroto sem ter que ficar dando refresh na tela, jogos, ou qualquer funcionalidade em tempo real que nos venha a cabeça."
+        title: "Além dos post-its"
+        description: "Temos um quadro, movemos alguns post-its, trabalhamos com sprints e nos reunimos todos os dias. Pronto somos Ágeis! \o/ 
+
+        Tem certeza? 
+
+        Vamos com calma, existe pelo menos uma dúzia de aspectos que você precisa considerar para se tornar realmente ágil. Nesta reunião vamos discutir um pouco sobre estes aspectos além de desmistificar alguns mitos por trás do Agile."
         time: "15h"
     ,
-      name: "kembolle Amilkar"
-      photo: "http://oi49.tinypic.com/if31pc.jpg"
-      bio: "- Tecnologia em Analise e Desenvolvimento de Sistemas,
-- Especialista em Governança de Tecnologia da Informação,
-- Especialista em G.P.N.T.I.
-- Pós-graduando em Segurança da Informação
-- Capitulo OWASP de Cuiabá  
-- Information Security Research Association 
-- Gerencia em Segurança da Informação, Procon-MT"
-      company: "Procon-MT"
-      twitter: ""
+      name: "Gabriel Santos"
+      photo: "src/files/img/gabriel.jpg"
+      bio: "Bacharel em Analise de Sistemas e cursando MBA em Gestão de Projeto, desenvolvedor C#  no Tribunal de Justiça de Mato Grosso desde 2006 e sempre estudando novas linguagens e frameworks. Interessado pelas novas tecnologias moveis e fanático por jogos desde que se conhece por gente."
+      company: "Tribunal de Justiça-MT"
+      twitter: "gabriel_araujo"
       presentation:
-        title: "OWASP Cuiabá  && ISRA "
-        description: "Analise e Desenvolvimento Seguro de Software. 
-OWASP Java Project.
-Exploração Vulnerabilidades em Ambientes Java.
-Cybercrimes."
+        title: "Desenvolvendo jogos para o Mercado Mobile"
+        description: "Quem nunca pensou em desenvolver seu próprio jogo? Mas legal ainda se seus amigos pudessem jogar em seus smartphones. Alguns jogos podem ser bem difíceis, mas certamente, desenvolver um jogo é o Level mais difícil e nada melhor do que conhecer alguns checkpoints. Na palestra, entenda os erros e acertos no processo de desenvolvimento de um jogo mobile."
         time: "16h"
     ,
-      name: "Guilherme Cardoso"
-      photo: "http://oi47.tinypic.com/2lcwkte.jpg"
-      bio: "Bacharel em Ciência da Computação pela Universidade Federal de Mato Grosso, tenta ganhar a vida como Desenvolvedor, aprendendo (com quem puder lhe ensinar, ou por conta própria) como ser um gentleman com teu código. Atualmente trabalha prestando serviço na Secretaria de Estado de Segurança Pública de Mato Grosso, mas já está de malas prontas pra enfrentar a voraz São Paulo e, quiçá, além."
-      company: "SESP"
-      twitter: "guipcardoso"
+      name: "Henrique Bastos"
+      photo: "src/files/img/henrique.jpg"
+      bio: "Apaixonado por desenvolvimento de software! Trabalha desenvolvendo sistemas com Python, Django e Métodos Ágeis. Além de atuar constantemente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
+      company: "Welcome to the Django"
+      twitter: "henriquebastos"
       presentation:
-        title: "OOmelete"
-        description: "A temida (ou não) Orientação a Objetos! Muitas dúvidas de como aprender a utilizar esse paradigma de programação, e nesse talk você NÃO vai aprender como fazer! Mas vai aprender a como NÃO fazer. Aprenderá também a fazer alguns agrados ao código (uma limpeza aqui e ali), e dar-lhe garantias que vai rodar sem quebrar a cara no meio do runtime! E talvez com tais agrados, ele (ou ela se preferir), poderá te retornar bons outputs."
+        title: "Ecossistema Django"
+        description: "Django é um excelente framework e o segredo do seu sucesso é a sua comunidade. Nesta palestra vamos montar um mapa do framework e do seu ecossistema para que você se sinta mais à vontade quando for buscar a solução do seu problema."
         time: "17h"
+    ]
+  ,
+    // List of Partners
+    partners: [
+      name: "Cbanet",
+      logo: "src/files/img/cbanet.jpg",
+      url: "http://cbanet.com.br"
+    ,
+      name: "yoDojo",
+      logo: "src/files/img/yodojo.jpg",
+      url: "https://groups.google.com/d/forum/yodojo"
     ]

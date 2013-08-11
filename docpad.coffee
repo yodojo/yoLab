@@ -7,9 +7,10 @@ module.exports =
     conf:
       name: "yoLab s02e01"
       description: "Primeiro episódio da segunda temporada de yoLab"
-      date: "17/08"
-      venue: "Rua Cinco, Centro Político Administrativo"
-      address: "Rua Cinco, Centro Político Administrativo"
+      date: "17 de Agosto"
+      price: "Grátis"
+      venue: "Centro Sebrae de Sustentabilidade"
+      address: "Centro Sebrae de Sustentabilidade, Rua Cinco, Centro Político Administrativo"
       city: "Cuiabá"
       state: "Mato Grosso"
     # Site info
@@ -17,7 +18,7 @@ module.exports =
       url: "github.com/yodojo/yoLab"
       googleanalytics: "UA-33656081-1"
       images:
-        cover: "src/files/img/your-logo.jpg"
+        #cover: "src/files/img/your-logo.jpg"
         facebook: "http://braziljs.org/img/fb-share.jpg"
 
     # Active sections on the website
@@ -36,7 +37,7 @@ module.exports =
       time: "14h"
     ,
       name: "Gustavo Piccin"
-      photo: "src/files/img/gustavo.jpeg"
+      photo: "img/gustavo.jpeg"
       bio: "Bacharel em Sistemas de Informação, pós-graduando em Gestão de Pessoas e Liderança de Alta Performance, Engenheiro de Software a 10 anos, sendo 5 destes atuados em Liderança e Gestão de Projetos. Um velho amante da filosofia Ágil, busca continuamente escapar de algumas armadilhadas' dos métodos convencionais de gestão, além de fomentar os métodos ágeis por onde passa. Se da muito bem em corridas de Kart e mesmo sem tanta habilidade insiste em jogar Tennis."
       company: "Tribunal de Justiça-MT"
       twitter: "gpiccin"
@@ -48,7 +49,7 @@ module.exports =
         time: "15h"
     ,
       name: "Gabriel Santos"
-      photo: "src/files/img/gabriel.jpg"
+      photo: "img/gabriel.jpg"
       bio: "Bacharel em Analise de Sistemas e cursando MBA em Gestão de Projeto, desenvolvedor C#  no Tribunal de Justiça de Mato Grosso desde 2006 e sempre estudando novas linguagens e frameworks. Interessado pelas novas tecnologias moveis e fanático por jogos desde que se conhece por gente."
       company: "Tribunal de Justiça-MT"
       twitter: "gabriel_araujo"
@@ -58,7 +59,7 @@ module.exports =
         time: "16h"
     ,
       name: "Henrique Bastos"
-      photo: "src/files/img/henrique.jpg"
+      photo: "img/henrique.jpg"
       bio: "Apaixonado por desenvolvimento de software! Trabalha desenvolvendo sistemas com Python, Django e Métodos Ágeis. Além de atuar constantemente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior."
       company: "Welcome to the Django"
       twitter: "henriquebastos"
@@ -70,10 +71,14 @@ module.exports =
   
     partners: [
       name: "Cbanet",
-      logo: "src/files/img/cbanet.jpg",
+      logo: "img/cbanet.jpg",
       url: "http://cbanet.com.br"
     ,
+      name: "SEBRAE-MT",
+      logo: "img/sebraemt.jpg",
+      url: "http://www.sebrae.com.br/uf/mato-grosso/"
+
       name: "yoDojo",
-      logo: "src/files/img/yodojo.jpg",
+      logo: "img/yodojo.jpg",
       url: "https://groups.google.com/d/forum/yodojo"
     ]

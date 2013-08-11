@@ -28,7 +28,7 @@
     <% end %>
     <% if @sections.partners: %>
       <li class="nav-item">
-        <a href="#partners" class="nav-link">Partners</a>
+        <a href="#partners" class="nav-link">Parceiros</a>
       </li>
     <% end %>
     <% if @sections.contact: %>

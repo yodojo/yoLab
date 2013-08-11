@@ -38,7 +38,7 @@ module.exports =
     ,
       name: "Gustavo Piccin"
       photo: "img/gustavo.jpeg"
-      bio: "Bacharel em Sistemas de Informação, pós-graduando em Gestão de Pessoas e Liderança de Alta Performance, Engenheiro de Software a 10 anos, sendo 5 destes atuados em Liderança e Gestão de Projetos. Um velho amante da filosofia Ágil, busca continuamente escapar de algumas armadilhadas' dos métodos convencionais de gestão, além de fomentar os métodos ágeis por onde passa. Se da muito bem em corridas de Kart e mesmo sem tanta habilidade insiste em jogar Tennis."
+      bio: "Bacharel em Sistemas de Informação, pós-graduando em Gestão de Pessoas e Liderança de Alta Performance, Engenheiro de Software a 10 anos, sendo 5 destes atuados em Liderança e Gestão de Projetos. Um velho amante da filosofia Ágil, busca continuamente escapar de algumas 'armadilhadas' dos métodos convencionais de gestão, além de fomentar os métodos ágeis por onde passa. Se da muito bem em corridas de Kart e mesmo sem tanta habilidade insiste em jogar Tennis."
       company: "Tribunal de Justiça-MT"
       twitter: "gpiccin"
       presentation:

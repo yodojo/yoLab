@@ -10,7 +10,7 @@ module.exports =
       date: "17 de Agosto"
       price: "Grátis"
       venue: "Centro Sebrae de Sustentabilidade"
-      address: "Centro Sebrae de Sustentabilidade, Rua Cinco, Centro Político Administrativo"
+      address: "Centro Sebrae de Sustentabilidade, Rua Cinco, 144, Centro Político Administrativo"
       city: "Cuiabá"
       state: "Mato Grosso"
     # Site info
@@ -18,7 +18,7 @@ module.exports =
       url: "github.com/yodojo/yoLab"
       googleanalytics: "UA-33656081-1"
       images:
-        #cover: "src/files/img/your-logo.jpg"
+      cover: "img/evil-uncle-bob.jpg"
         facebook: "http://braziljs.org/img/fb-share.jpg"
 
     # Active sections on the website

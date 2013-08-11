@@ -76,8 +76,8 @@ module.exports =
     ,
       name: "SEBRAE-MT",
       logo: "img/sebraemt.jpg",
-      url: "http://www.sebrae.com.br/uf/mato-grosso/"
-
+      url: "http://www.sebrae.com.br/uf/mato-grosso"
+    ,
       name: "yoDojo",
       logo: "img/yodojo.jpg",
       url: "https://groups.google.com/d/forum/yodojo"

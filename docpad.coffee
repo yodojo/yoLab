@@ -8,9 +8,9 @@ module.exports =
       name: "yoLab s02e01"
       description: "Primeiro episódio da segunda temporada de yoLab"
       date: "17 de Agosto"
-      price: "0"
+      price: "0.00"
       venue: "Centro Sebrae de Sustentabilidade"
-      address: "Centro Sebrae de Sustentabilidade, Rua Cinco, 144, Centro Político Administrativo"
+      address: "Centro Sebrae de Sustentabilidade @-15.568192593059278,-56.06975597329438"
       city: "Cuiabá"
       state: "Mato Grosso"
     # Site info
@@ -43,8 +43,8 @@ module.exports =
       twitter: "gpiccin"
       presentation:
         title: "Além dos post-its"
-        description: "Temos um quadro, movemos alguns post-its, trabalhamos com sprints e nos reunimos todos os dias. Pronto somos Ágeis! \o/ 
-        Tem certeza? 
+        description: "Temos um quadro, movemos alguns post-its, trabalhamos com sprints e nos reunimos todos os dias. Pronto somos Ágeis! \o/ </br></br>
+        Tem certeza?</br></br> 
         Vamos com calma, existe pelo menos uma dúzia de aspectos que você precisa considerar para se tornar realmente ágil. Nesta reunião vamos discutir um pouco sobre estes aspectos além de desmistificar alguns mitos por trás do Agile."
         time: "15h"
     ,

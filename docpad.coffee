@@ -10,7 +10,7 @@ module.exports =
       date: "17 de Agosto"
       price: "0.00"
       venue: "Centro Sebrae de Sustentabilidade"
-      address: "Centro Sebrae de Sustentabilidade, Rua Cinco, 144, Centro Político Administrativo @-15.568192593059278,-56.06975597329438"
+      address: "-15.568192593059278,-56.06975597329438"
       city: "Cuiabá"
       state: "Mato Grosso"
     # Site info

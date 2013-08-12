@@ -65,9 +65,9 @@ module.exports =
     ,
       name: "Cinco Jedis"
       photo: "img/jedi.jpg"
-      bio: ""
+      bio: "Cinco integrantes de alguns orgãos públicos e empresas"
       presentation: 
-        title: "Bancada de Discussão sobre o cenário Cuiabano de Desenvolvimento de Software"
+        title: "Discussão sobre o cenário Cuiabano de Desenvolvimento de Software"
         description: "Cinco integrantes de vários orgãos públicos e empresas, discutirão sobre o cenário atual de desenvolvimento de software em Cuiabá."
         time: "17h"
     ]

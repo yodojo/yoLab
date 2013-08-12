@@ -33,9 +33,6 @@ module.exports =
 
     # The entire schedule
     schedule: [
-      name: "Inicio da parada"
-      time: "14h"
-    ,
       name: "Gustavo Piccin"
       photo: "img/gustavo.jpeg"
       bio: "Bacharel em Sistemas de Informação, pós-graduando em Gestão de Pessoas e Liderança de Alta Performance, Engenheiro de Software a 10 anos, sendo 5 destes atuados em Liderança e Gestão de Projetos. Um velho amante da filosofia Ágil, busca continuamente escapar de algumas 'armadilhadas' dos métodos convencionais de gestão, além de fomentar os métodos ágeis por onde passa. Se da muito bem em corridas de Kart e mesmo sem tanta habilidade insiste em jogar Tennis."
@@ -43,10 +40,8 @@ module.exports =
       twitter: "gpiccin"
       presentation:
         title: "Além dos post-its"
-        description: "Temos um quadro, movemos alguns post-its, trabalhamos com sprints e nos reunimos todos os dias. Pronto somos Ágeis! \o/ </br></br>
-        Tem certeza?</br></br> 
-        Vamos com calma, existe pelo menos uma dúzia de aspectos que você precisa considerar para se tornar realmente ágil. Nesta reunião vamos discutir um pouco sobre estes aspectos além de desmistificar alguns mitos por trás do Agile."
-        time: "15h"
+        description: "Temos um quadro, movemos alguns post-its, trabalhamos com sprints e nos reunimos todos os dias. Pronto somos Ágeis! \o/ Tem certeza? Vamos com calma, existe pelo menos uma dúzia de aspectos que você precisa considerar para se tornar realmente ágil. Nesta reunião vamos discutir um pouco sobre estes aspectos além de desmistificar alguns mitos por trás do Agile."
+        time: "14h"
     ,
       name: "Gabriel Santos"
       photo: "img/gabriel.jpg"
@@ -56,7 +51,7 @@ module.exports =
       presentation:
         title: "Desenvolvendo jogos para o Mercado Mobile"
         description: "Quem nunca pensou em desenvolver seu próprio jogo? Mas legal ainda se seus amigos pudessem jogar em seus smartphones. Alguns jogos podem ser bem difíceis, mas certamente, desenvolver um jogo é o Level mais difícil e nada melhor do que conhecer alguns checkpoints. Na palestra, entenda os erros e acertos no processo de desenvolvimento de um jogo mobile."
-        time: "16h"
+        time: "15h"
     ,
       name: "Henrique Bastos"
       photo: "img/henrique.jpg"
@@ -66,12 +61,20 @@ module.exports =
       presentation:
         title: "Ecossistema Django"
         description: "Django é um excelente framework e o segredo do seu sucesso é a sua comunidade. Nesta palestra vamos montar um mapa do framework e do seu ecossistema para que você se sinta mais à vontade quando for buscar a solução do seu problema."
+        time: "16h"
+    ,
+      name: "Cinco Jedis"
+      photo: "img/jedi.jpg"
+      bio: ""
+      presentation: 
+        title: "Bancada de Discussão sobre o cenário Cuiabano de Desenvolvimento de Software"
+        description: "Cinco integrantes de vários orgãos públicos e empresas, discutirão sobre o cenário atual de desenvolvimento de software em Cuiabá."
         time: "17h"
     ]
   
     partners: [
       name: "Cbanet",
-      logo: "img/cbanet.jpg",
+      logo: "img/cbanet.png",
       url: "http://cbanet.com.br"
     ,
       name: "SEBRAE-MT",

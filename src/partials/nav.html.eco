@@ -23,7 +23,7 @@
     <% end %>
     <% if @sections.sponsors: %>
       <li class="nav-item">
-        <a href="#sponsors" class="nav-link">Sponsors</a>
+        <a href="#sponsors" class="nav-link">Patrocinadores</a>
       </li>
     <% end %>
     <% if @sections.partners: %>

@@ -41,7 +41,7 @@ module.exports =
       presentation:
         title: "Pivot Soberano"
         description: "A história da reviravolta no Sneer, o projeto pioneiro de computacão soberana."
-        time: "9h"
+        time: "10h"
     ,
       name: "Você?"
       photo: "img/who.png"
@@ -51,17 +51,7 @@ module.exports =
       presentation:
         title: ""
         description: ""
-        time: "10h30"
-    ,
-      name: "Halison Brito"
-      photo: "img/halison.png"
-      bio: "Lecionou por 2 anos na faculdade FIC, é desenvolvedor profissional há 6 anos, tem experiência com Java, PHP e Flex. Já trabalhou em diversos modelos de projeto na região e atualmente é desenvolvedor na Secretaria de Segurança do Estado. Desde 2011 fomenta os princípios do manifesto ágil nos locais que trabalha, devido a sua preocupação com a qualidade dos softwares produzidos."
-      company: "Secretaria de Segurança do Estado"
-      twitter: "halison_brito"
-      presentation:
-        title: "Praticas ágeis em um ambiente lento"
-        description: "Mesmo que algumas pessoas ainda não concordem com isso (acordem!!) estamos na era do movimento ágil, frameworks como Scrum estão sendo adotados, mas será que só implementar os processos do Scrum na sua empresa irá te ajudar a melhorar seu software? Esta apresentação aborda \"apenas\" um princípio do manifesto ágil: Contínua atenção à excelência técnica e bom design, aumenta a agilidade."
-        time: "13h30"
+        time: "11h"
     ,
       name: "Você?"
       photo: "img/who.png"
@@ -71,7 +61,17 @@ module.exports =
       presentation:
         title: ""
         description: ""
-        time: "14h30"
+        time: "14h"
+    ,
+      name: "Você?"
+      photo: "img/who.png"
+      bio: ""
+      company: ""
+      twitter: ""
+      presentation:
+        title: ""
+        description: ""
+        time: "15h"
     ,
       name: "Você?"
       photo: "img/who.png"
@@ -106,8 +106,4 @@ module.exports =
       name: "USE Coworking",
       logo: "img/use.jpg",
       url: "http://www.usecoworking.com.br"
-    ,
-      name: "SEBRAE MT",
-      logo: "img/sebraemt.jpg",
-      url: "http://www.sebrae.com.br/uf/mato-grosso"
     ]

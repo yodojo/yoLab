@@ -86,7 +86,7 @@ module.exports =
   
     sponsors: [
       name: "SEBRAE MT",
-      logo: "img/sebraemt.jpg",
+      logo: "img/sebrae.png",
       url: "http://www.sebrae.com.br/uf/mato-grosso"
     ,
       name: "RCF Inovações",

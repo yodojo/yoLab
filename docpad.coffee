@@ -9,8 +9,8 @@ module.exports =
       description: "Primeiro episódio da terceira temporada de yoLab"
       date: "15 de Março"
       price: "0.00"
-      venue: "Local a definir"
-      address: "A definir"
+      venue: "Escola dos Servidores do Poder Judiciário"
+      address: "-15.570882,-56.071824"
       city: "Cuiabá"
       state: "Mato Grosso"
     # Site info
@@ -49,18 +49,18 @@ module.exports =
       company: ""
       twitter: ""
       presentation:
-        title: ""
-        description: ""
+        title: "Startup: WTF?"
+        description: "Definições sobre startups."
         time: "11h"
     ,
-      name: "Você?"
-      photo: "img/who.png"
-      bio: ""
-      company: ""
-      twitter: ""
+      name: "Alvaro Viebranz"
+      photo: "img/alvaro.jpg"
+      bio: "Recém formado pela UFMT, com estudos na área de banco de dados NoSQL e buscas textuais, focando nos diferentes tipos de modelos de dados que podem ser utilizados para complementar o modelo relacional que conhecemos. Possui experiência com Java e mais recentemente com Ruby e NodeJS. Atualmente trabalha como Analista de TI na Secretaria de Fazenda na área de Business Intelligence."
+      company: "SEFAZ-MT"
+      twitter: "alvinhuuu"
       presentation:
-        title: ""
-        description: ""
+        title: "NoSQL: Onde vivem e como se alimentam?"
+        description: "Apresentação com objetivo de mostrar o porque do surgimento de novas soluções de armazenamento e processamento de dados para suportar uma nova geração de aplicações. Será mostrado os diferentes tipos de bancos de dados não relacionais (NoSQL) e diferentes situações onde podem ser aplicados. Também será mostrado um passo a passo de como montar um caso prático utilizando essas tecnologias."
         time: "14h"
     ,
       name: "Você?"
@@ -69,18 +69,18 @@ module.exports =
       company: ""
       twitter: ""
       presentation:
-        title: ""
-        description: ""
+        title: "Startups cuiabanas"
+        description: "Três cases regionais."
         time: "15h"
     ,
-      name: "Você?"
-      photo: "img/who.png"
-      bio: ""
-      company: ""
-      twitter: ""
+      name: "Silvair Fernandes Frazão"
+      photo: "img/silvair.jpg"
+      bio: "Graduado em Ciência da Computação na UNEMAT e pós graduado em Desenvolvimento de jogos Digitais pela PUCRS, trabalhou como  Animador de Personagens na Aquiris Game Studio (Porto Alegre-RS), foi Professor no curso de jogos digitais da FEEVALE (Novo Hamburgo-RS), atualmente trabalha como programador e artista 3D na criação de jogos digitais."
+      company: "FIEMT"
+      twitter: "silvair_frazao"
       presentation:
-        title: ""
-        description: ""
+        title: "Desenvolvimento de Jogos utilizando Unity 3D"
+        description: "Uma breve apresentação sobre a ferramenta, explicando os principais recursos utilizados no desenvolvimento de jogos digitais, vantagens e desvantagens de utilizar a Unity, ferramentas de apoio, profissionais envolvidos, fluxo de trabalho, asset store, etc."
         time: "16h"
     ]
   

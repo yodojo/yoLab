@@ -24,6 +24,7 @@ module.exports =
     # Active sections on the website
     sections:
       about: true
+      registrations: true
       location: true
       speakers: true
       schedule: true
@@ -43,14 +44,14 @@ module.exports =
         description: "A história da reviravolta no Sneer, o projeto pioneiro de computacão soberana."
         time: "10h"
     ,
-      name: "Você?"
+      name: "Rodrigo Louzich e Lauro Ojeda"
       photo: "img/who.png"
-      bio: ""
-      company: ""
-      twitter: ""
+      bio: "Rodrigo é co-fundador da INEX Tecnologia e do Portal Cabeça de Pacu. Presidente do StartupMT, grupo de empreendedores digitais de Mato Grosso. Analista de Sistemas por formação e especialista em Marketing. Empreendedor digital, possui 15 anos de experiência no mercado de Internet e mais de 150 projetos publicados na Internet. Abriu sua primeira empresa de Internet aos 18 anos, e participou da criação dos principais portais de entretenimento do estado de Mato Grosso.
+      Lauro é proprietário da USE Coworking escritório compartilhado, empreendedor, DBA Oracle e vice presidente do StartupMT. Formado em computação pela FIAP-SP e mestre em empreendedorismo e inovação pela Universidade Técnica Real da Suécia, Lauro foi premiado pelo Ministério de Comércio Exterior daquele país por excelência em empreendedorismo em 2011. Na área técnica, detém diversas certificações de alto nível. Trabalhou no Brasil e no exterior como consultor em banco de dados em empresas de grande porte como IBM e Baxter."
+      company: "INEX Tecnologia e USE Coworking"      
       presentation:
-        title: "Startup: WTF?"
-        description: "Definições sobre startups."
+        title: "Empreendedorismo digital no mundo das Startups"
+        description: "Conceitos básicos sobre o mundo das startups, números e dados sobre empreendedorismo no Brasil e formas de empreender."
         time: "11h"
     ,
       name: "Alvaro Viebranz"
@@ -63,14 +64,13 @@ module.exports =
         description: "Apresentação com objetivo de mostrar o porque do surgimento de novas soluções de armazenamento e processamento de dados para suportar uma nova geração de aplicações. Será mostrado os diferentes tipos de bancos de dados não relacionais (NoSQL) e diferentes situações onde podem ser aplicados. Também será mostrado um passo a passo de como montar um caso prático utilizando essas tecnologias."
         time: "14h"
     ,
-      name: "Você?"
-      photo: "img/who.png"
-      bio: ""
-      company: ""
-      twitter: ""
+      name: "StartupMT"
+      photo: "img/smt.jpg"
+      bio: "Grupo de empreendedores digitais que busca promover a discussão e a troca de ideias sobre as Startups de Mato Grosso."
+      company: "StartupMT"
       presentation:
-        title: "Startups cuiabanas"
-        description: "Três cases regionais."
+        title: "Cases de startups regionais"
+        description: "Como e porquê algumas startups bombam e outras afundam?"
         time: "15h"
     ,
       name: "Silvair Fernandes Frazão"

@@ -6,6 +6,11 @@
         <a href="#about" class="nav-link">Sobre</a>
       </li>
     <% end %>
+    <% if @sections.registrations: %>
+      <li class="nav-item">
+        <a href="#registrations" class="nav-link">Inscrições</a>
+      </li>
+    <% end %>
     <% if @sections.location: %>
       <li class="nav-item">
         <a href="#location" class="nav-link">Local</a>

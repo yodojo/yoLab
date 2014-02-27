@@ -17,9 +17,11 @@
             <% end %>
               <span> <%= speaker.presentation.title %></span>
           </h3>
-          <% if speaker.twitter: %>  
-            <h3 class="speakers-name"><%= speaker.name %> <a href="http://www.twitter.com/<%= speaker.twitter %>" title="Twitter @<%= speaker.twitter %>">@<%= speaker.twitter %></a></h3>
-          <% end %>
+          <h3 class="speakers-name"><%= speaker.name %> 
+            <% if speaker.twitter: %>  
+              <a href="http://www.twitter.com/<%= speaker.twitter %>" title="Twitter @<%= speaker.twitter %>">@<%= speaker.twitter %></a>
+            <% end %>
+          </h3>
           <p class="speakers-bio"><%= speaker.bio %></p>
         </li>
       <% end %>

@@ -45,7 +45,7 @@ module.exports =
         time: "10h"
     ,
       name: "Rodrigo Louzich e Lauro Ojeda"
-      photo: "img/who.png"
+      photo: "img/rodrigoelauro.png"
       bio: "Rodrigo é co-fundador da INEX Tecnologia e do Portal Cabeça de Pacu. Presidente do StartupMT, grupo de empreendedores digitais de Mato Grosso. Analista de Sistemas por formação e especialista em Marketing. Empreendedor digital, possui 15 anos de experiência no mercado de Internet e mais de 150 projetos publicados na Internet. Abriu sua primeira empresa de Internet aos 18 anos, e participou da criação dos principais portais de entretenimento do estado de Mato Grosso.
       Lauro é proprietário da USE Coworking escritório compartilhado, empreendedor, DBA Oracle e vice presidente do StartupMT. Formado em computação pela FIAP-SP e mestre em empreendedorismo e inovação pela Universidade Técnica Real da Suécia, Lauro foi premiado pelo Ministério de Comércio Exterior daquele país por excelência em empreendedorismo em 2011. Na área técnica, detém diversas certificações de alto nível. Trabalhou no Brasil e no exterior como consultor em banco de dados em empresas de grande porte como IBM e Baxter."
       company: "INEX Tecnologia e USE Coworking"      

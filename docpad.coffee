@@ -61,7 +61,7 @@ module.exports =
       twitter: "alvinhuuu"
       presentation:
         title: "NoSQL: Onde vivem e como se alimentam?"
-        description: "Apresentação com objetivo de mostrar o porque do surgimento de novas soluções de armazenamento e processamento de dados para suportar uma nova geração de aplicações. Será mostrado os diferentes tipos de bancos de dados não relacionais (NoSQL) e diferentes situações onde podem ser aplicados. Também será mostrado um passo a passo de como montar um caso prático utilizando essas tecnologias."
+        description: "Apresentação com objetivo de mostrar o porque do surgimento de novas soluções de armazenamento e processamento de dados para suportar uma nova geração de aplicações. Será mostrado os diferentes tipos de bancos de dados não relacionais (NoSQL) e diferentes situações onde podem ser aplicados."
         time: "14h"
     ,
       name: "StartupMT"
